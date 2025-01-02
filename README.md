@@ -1,4 +1,4 @@
-## This repository will contains all resources related to IOM alim preparatory course specially notes
+## This repository will contain all resources related to IOM alim preparatory course specially notes
 
 ### Rules we follow
 1. Every section should be formated as: `## dd-mm-yy: Section Name`
