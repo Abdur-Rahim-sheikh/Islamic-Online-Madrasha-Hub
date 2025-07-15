@@ -77,10 +77,13 @@ It uses common transliterations, when several interpretations are possible you c
   (".h" "ة")
   ("e" "َ")  ; fatha
   (".e" "ً") ; fathatan (tanween fatha)
+  ("E" "\u0670") ; SUPERSCRIPT ALEF – Khara Jobor (ٰ)
   ("u" "ُ")  ; dammah
   (".u" "ٌ") ; dammatan (tanween damma)
+  ("U" "\u0657") ; INVERTED DAMMA   – Ulta Pesh   (ٗ)
   ("i" "ِ")  ; kasrah
   (".i" "ٍ") ; kasratan (tanween kasra)
+  ("I" "\u0656") ; SUBSCRIPT ALEF   – Khara Jer   (ٖ)
 
   ("x" "ْ")	; sukun
   ("o" "ٰ")	; superscript alif
